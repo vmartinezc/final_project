@@ -22,6 +22,11 @@ Our solution is to develop a responsive web application that will host all of Mi
 Moreover, one of our main goals was to add a content management system, UmbracoCMS, that will make the process of editing the website as easy as possible for Mike. We developed the the heavy lifting of laying the content out on the website and providing Mike with very simple textboxes, macro and partial views. He will be able to drag and drop the content on the page.
 
 ---
+### Senior Project Final Report
+[Final Report](/pdf/SeniorProjectReport.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ### Meet the Team
 <img src="images/collage.png?raw=true"/>
