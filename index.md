@@ -5,7 +5,7 @@
 ### Background
 
 [Project 1 Title](/sample_page)
-<img src="images/dundraw_prototyping_process_rswj.png?raw=true"/>
+<img src="images/dundraw_prototyping_process_rswj.svg?raw=true"/>
 
 Mike Benson, the leader of the Conquerors International Strength Team, has been a missionary for the past fifteen years of his life. He has travelled the world sharing the good news of the Gospel. 
 He wants to grow his ministry, but one of the only things he lacks is a proper website for his ministry. 
