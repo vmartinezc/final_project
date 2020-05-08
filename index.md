@@ -27,6 +27,7 @@ Moreover, one of our main goals was to add a content management system, UmbracoC
 <img src="images/collage.png?raw=true"/>
 
 (Top right to bottom left)
+
 Sarah Hendriksen: Computer Science major and Psychology and Business double minor.
 Sarah enjoys eating ice cream and petting her 2 cats. 
 
