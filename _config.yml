@@ -3,8 +3,9 @@ logo: "/images/otherlogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Calvin University
   <br><br>
-  2019-2020 
+  Advisor: Victor Norman
   <br><br>
+  2019-2020
   
   
 theme: jekyll-theme-minimal
