@@ -26,7 +26,20 @@ Moreover, one of our main goals was to add a content management system, UmbracoC
 ### Meet the Team
 <img src="images/collage.png?raw=true"/>
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+(Top right to bottom left)
+Sarah Hendriksen: Computer Science major and Psychology and Business double minor.
+Sarah enjoys eating ice cream and petting her 2 cats. 
+
+Gavin Martin: Computer Science major
+Gavin's favorite color is Malachite.
+
+Sameer Mall: Computer Science major and Business minor
+Sameer's birthstone is Garnet. He eats chicken wings on Thursdays.
+
+Valeria Martínez Castro: Computer Science and Political Science double major.
+Valeria has a squirrel pet named Shirley.
+
+
 
 ---
 
