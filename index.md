@@ -29,15 +29,19 @@ Moreover, one of our main goals was to add a content management system, UmbracoC
 (Top right to bottom left)
 
 Sarah Hendriksen: Computer Science major and Psychology and Business double minor.
+
 Sarah enjoys eating ice cream and petting her 2 cats. 
 
 Gavin Martin: Computer Science major
+
 Gavin's favorite color is Malachite.
 
 Sameer Mall: Computer Science major and Business minor
-Sameer's birthstone is Garnet. He eats chicken wings on Thursdays.
+
+Sameer's birthstone is Garnet. 
 
 Valeria Martínez Castro: Computer Science and Political Science double major.
+
 Valeria has a squirrel pet named Shirley.
 
 
