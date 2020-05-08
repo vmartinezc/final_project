@@ -20,7 +20,7 @@ How to best develop a progressive web app for an Evangelical Missionary?
 ---
 
 ### Solution
-[Project 3 Title]
+
 Our solution is to develop a responsive web application that will host all of Mike's ministry updates, an event calendar, newsletters, online store, and donations page. The website is HTTPS secures and mobile friendly.
 Moreover, one of our main goals was to add a content management system, UmbracoCMS, that will make the process of editing the website as easy as possible for Mike. We developed the the heavy lifting of laying the content out on the website and providing Mike with very simple textboxes, macro and partial views. He will be able to drag and drop the content on the page.
 
