@@ -14,7 +14,6 @@ For that reason, we would like to work on a project that will provide Mike with 
 ---
 
 ### Research Question
-[Project 2 Title](/pdf/sample_presentation.pdf)
 How to best develop a progressive web app for an Evangelical Missionary?
 
 ---
@@ -28,7 +27,7 @@ Moreover, one of our main goals was to add a content management system, UmbracoC
 
 ### Meet the Team
 
-
+[Project 2 Title](/pdf/sample_presentation.pdf)
 
 ---
 
