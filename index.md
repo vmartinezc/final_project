@@ -54,7 +54,8 @@ Computer Science and Political Science double major.
 
 Valeria has a squirrel pet named Shirley.
 
-
-
 ---
 
+### Computer Science @ Calvin University
+
+- [Department Website](https://computing.calvin.edu/)
