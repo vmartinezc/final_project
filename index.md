@@ -26,6 +26,7 @@ Moreover, one of our main goals was to add a content management system, UmbracoC
 ---
 
 ### Meet the Team
+<img src="images/IMG_7992.JPG?raw=true"/>
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
