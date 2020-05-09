@@ -4,7 +4,7 @@
 ---
 
 ### Senior Project Presentation
-[Via Teams](https://youtu.be/v5D76Y7LrN0)
+[Video](https://youtu.be/v5D76Y7LrN0)
 
 ---
 
