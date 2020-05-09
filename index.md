@@ -1,5 +1,5 @@
 ## General Overview
-[Most up-to-date version](http://theconquerors.azurewebsites.net/)
+[Most up-to-date version of the website](http://theconquerors.azurewebsites.net/)
 
 ---
 
